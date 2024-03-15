@@ -1,0 +1,282 @@
+body{
+    position: relative;
+   text-align: center;
+   
+   background-color:rgb(27, 144, 183);
+   color: white;
+   margin: 0px;
+   padding: 0px;
+}
+.main-pic{
+    width: 400px;
+}
+header{
+  
+   background-color:gray;
+   padding: 20px  0;}
+ 
+.header_home{
+    background-color:black
+
+}
+ul, a{
+   list-style-type: none;
+   margin: 0px;
+   padding: 0px;
+   text-decoration: none;
+}
+nav ul{
+   display: flex;
+   justify-content: center;
+}
+nav ul li{
+   margin: 0px 20px;
+}
+nav ul li a{
+   color: white;
+   font-size: 16px;
+   padding: 5px 10px
+   ;
+   border-radius: 5px;
+   transition: background-color 0.3;
+}
+nav ul li a:hover, nav ul li a:focus{
+   background-color: firebrick;
+}
+nav ul li a:focus{
+   background-color: blue;
+}
+
+  
+   
+
+
+footer{
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  background-color: rgb(173, 163, 163);  }
+ .p_footer{
+font-size: 16px;
+
+
+margin: 0px;
+padding: 16px;
+} 
+.ddd{ 
+background-color: rgb(39, 39, 39);
+color: white;
+height: 40px;
+padding: 10px;
+}
+.main_pic{
+width: 100%;
+height: 500px;
+margin: 0px;
+}
+ul, a{
+margin: 0px;
+padding: 0px;
+}
+a{
+text-decoration: none;
+}
+.RR{
+color: white;
+border-radius: 5px;
+padding: 0px;
+font-family: serif;
+
+}
+
+.m{
+color: white;
+font-family: serif;
+
+}
+
+img{
+height: 280px;
+width: 200px;
+margin: 10px;
+
+}
+.p1{
+display: inline-block;
+
+
+background-color: rgb(39, 39, 39);
+position: relative;
+margin-top: 100px;
+padding: 10px;
+margin-right: 20px;
+width: 250px;
+}
+.p1:hover{
+background-color: blue;
+}
+.p2{
+display: inline-block;
+
+background-color: rgb(39, 39, 39);
+position: relative;
+padding: 10px;
+margin-left: 20px;
+width: 250px;
+}
+.p2:hover{
+background-color: blue;
+}
+
+
+
+.p_movie{
+color: white;
+font-size: 18px;
+font-family: serif;
+padding-bottom: 20px;
+
+}
+p{
+font-size: 20px;
+color: black;
+font-family: serif;
+}
+
+
+/* movie*...................................................................................*/
+
+
+.p_footer{
+font-size: 16px;
+font-style:italic;
+color:white;
+font-family: serif;
+margin: 0px;
+padding: 16px;
+}
+img{
+height: 280px;
+width: 200px;
+}
+
+
+
+.d1:hover{
+background-color: blue;
+}
+.d2:hover{
+background-color: blue;
+}
+
+
+.d4:hover{
+    background-color: blue;
+}
+.d3:hover{
+ background-color:blue ;
+}
+
+.d1{
+display: inline-block;
+
+background-color: rgb(39, 39, 39);
+position: relative;
+margin-top: 100px;
+padding: 10px;
+margin-right: 20px;
+width: 250px;
+
+}
+
+.d2{
+display: inline-block;
+background-color: rgb(39, 39, 39);
+position: relative;
+padding: 10px;
+margin-left: 20px;
+width: 250px;}
+
+
+.d3{
+display: inline-block;
+background-color: rgb(39, 39, 39);
+position: relative;
+padding: 10px;
+margin-left: 40px;
+width: 250px;
+
+}
+.d4{
+
+margin-top: 100px;
+display: inline-block;
+background-color:rgb(39, 39, 39);
+position: relative;
+padding: 10px;
+margin-right: 20px;
+width: 250px;
+
+
+
+}
+
+p{
+    color:white;
+ 
+    font-size: 20px;
+}
+
+.tneBestMovie{
+    animation: fade-inout 1s infinite alternate;
+    color:  lightseagreen;
+    font-size: 30px;
+    font-family: fantasy;
+    margin-bottom: 20px;
+}
+
+/*  movie pages .................................*/
+.video{
+       
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 440px;
+background-color:darkgrey;
+height: 500px;
+border-style: solid;
+border-color: white;
+   
+}
+
+.p_moviepage{
+    color: black;
+    padding: 20px;
+    font-size: 16px;
+    text-align: left;
+}
+
+body{
+   
+    margin: 0px;
+}
+.pic{
+    width: 400px;
+    height: 200px;
+    
+}
+.play_button{
+    padding: 10px;
+   
+    width: 60px;
+   background-color: blue;
+   float: left;
+}
+h2{
+    font-family: serif;
+    font-size: 20px;
+    color:black;
+    
+}
+
+
